@@ -14,6 +14,17 @@ CostTable is an open-source Flutter app for accurate recipe costing, ingredient 
 - Quick reports dashboard: cost and profit by item
 - Price history log for each ingredient
 
+<p align="center space-around">
+  <img src="assets/images/splash.jpg" width="250" />
+  <img src="assets/images/dashboard.jpg" width="250" />
+  <img src="assets/images/dish_costing.jpg" width="220" />
+  <img src="assets/images/menu_items.jpg" width="250" />
+  <img src="assets/images/ingredients.jpg" width="250" />
+  <img src="assets/images/indirect_direct.jpg" width="250" />
+  
+</p>
+
+
 ## Database Base Schema
 
 ### Table: ingredients
